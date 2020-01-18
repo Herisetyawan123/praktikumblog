@@ -1,0 +1,64 @@
+/* HEADER --------------------*/
+header, footer {
+    background: #30663f;
+    color: white;
+}
+
+body{
+    background-image: url(../img/wallpaper.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+.wrap {
+    max-width: 60vw;
+}
+
+
+.profile {
+    margin: 0px auto;
+    width: 600px;
+    padding: 64px 0;
+}
+
+
+.profile img{
+    float: left;
+    max-width: 140px;
+    max-height: 140px;
+    border-radius: 50%;
+    border: 5px solid white;
+    margin: 20px;
+}
+
+.deskripsi h2{
+    padding-top: 40px;
+}
+
+.bold-hr{
+   border: 1px solid white;
+}
+
+.media-social{
+    margin: 20px 0;
+}
+
+.media-social a{
+    margin-right: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.rounded-input{
+    border-radius: 20px;
+    color: black;
+    background: transparent;
+}
+
+.button-sub{
+    border-radius: 20px;
+   
+}
+
